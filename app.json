@@ -2,6 +2,11 @@
   "expo": {
     "name": "chicoins",
     "slug": "chicoins",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "extra": {
+      "eas": {
+        "projectId": "c27e4575-859d-4bb4-8bad-3babce4370eb"
+      }
+    }
   }
 }
